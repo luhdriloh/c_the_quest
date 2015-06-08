@@ -19,4 +19,6 @@ int main ()
 
 	cout << "the average of these numbers is "
 		 << sum / 5 << endl;
+
+	return 0;
 }
