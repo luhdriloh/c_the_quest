@@ -1,0 +1,4 @@
+c++ notes
+=========
+
+this will be a txt file of stuff I have learned
